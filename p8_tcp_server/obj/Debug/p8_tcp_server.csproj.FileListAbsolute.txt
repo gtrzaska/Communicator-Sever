@@ -1,0 +1,21 @@
+H:\C#\p8_tcp_server\p8_tcp_server\bin\Debug\p8_tcp_server.exe.config
+H:\C#\p8_tcp_server\p8_tcp_server\bin\Debug\p8_tcp_server.exe
+H:\C#\p8_tcp_server\p8_tcp_server\bin\Debug\p8_tcp_server.pdb
+H:\C#\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.csprojResolveAssemblyReference.cache
+H:\C#\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.Form1.resources
+H:\C#\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.Properties.Resources.resources
+H:\C#\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.csproj.GenerateResource.Cache
+H:\C#\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.exe
+H:\C#\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.pdb
+C:\Users\Trzaska Grzegorz\Desktop\zaq\p8_tcp_server\p8_tcp_server\bin\Debug\p8_tcp_server.exe.config
+C:\Users\Trzaska Grzegorz\Desktop\zaq\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.exe
+C:\Users\Trzaska Grzegorz\Desktop\zaq\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.pdb
+C:\Users\Trzaska Grzegorz\Desktop\zaq\p8_tcp_server\p8_tcp_server\bin\Debug\p8_tcp_server.exe
+C:\Users\Trzaska Grzegorz\Desktop\zaq\p8_tcp_server\p8_tcp_server\bin\Debug\p8_tcp_server.pdb
+C:\Users\Trzaska Grzegorz\Desktop\zaq\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.csprojResolveAssemblyReference.cache
+C:\Users\Trzaska Grzegorz\Desktop\zaq\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.Form1.resources
+C:\Users\Trzaska Grzegorz\Desktop\zaq\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.Properties.Resources.resources
+C:\Users\Trzaska Grzegorz\Desktop\zaq\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.csproj.GenerateResource.Cache
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_server\p8_tcp_server\bin\Debug\p8_tcp_server.exe.config
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.exe
+C:\Users\Grzesiek\Desktop\Projekty\zaq\p8_tcp_server\p8_tcp_server\obj\Debug\p8_tcp_server.pdb
